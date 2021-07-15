@@ -78,8 +78,16 @@
       <option name="presentableId" value="Default" />
       <updated>1625757548061</updated>
       <workItem from="1625757556282" duration="2617000" />
-      <workItem from="1626363742749" duration="710000" />
+      <workItem from="1626363742749" duration="2087000" />
     </task>
+    <task id="LOCAL-00001" summary="测试1">
+      <created>1626365547304</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626365547304</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,13 +105,18 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="测试1" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="185" y="0" key="CommitChangelistDialog2" timestamp="1625761873342">
+    <state x="185" y="0" key="CommitChangelistDialog2" timestamp="1626365544628">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="185" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1625761873342" />
+    <state x="185" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1626365544628" />
+    <state x="19" y="55" key="DiffContextDialog" timestamp="1626365481214">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="19" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1626365481214" />
     <state width="1323" height="8" key="GridCell.Tab.0.bottom" timestamp="1625757971046">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -120,9 +133,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="8" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625757971046" />
-    <state x="472" y="166" key="git4idea.merge.GitPullDialog" timestamp="1625761662373">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1626365709362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="472" y="166" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1625761662373" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1626365709362" />
+    <state x="472" y="166" key="git4idea.merge.GitPullDialog" timestamp="1626365827491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="472" y="166" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1626365827491" />
   </component>
 </project>
