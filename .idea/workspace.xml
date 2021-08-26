@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f70b0c14-cfd3-4f1d-b368-43602650db2a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f70b0c14-cfd3-4f1d-b368-43602650db2a" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/C.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,10 +124,6 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1629993408104" />
-    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1629992979109">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1629992979109" />
     <state x="185" y="0" width="1116" height="728" key="CommitChangelistDialog2" timestamp="1626370356403">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -155,11 +153,9 @@
     </state>
     <state x="525" y="77" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1626370349260" />
     <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1629993455351">
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1629993031531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1629993455351" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1629993031531" />
     <state x="472" y="166" key="git4idea.merge.GitPullDialog" timestamp="1626365827491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
