@@ -5,4 +5,5 @@ public class B {
     private int cc;
     private int ee;
     private int rrr;
+    private int sss;
 }
