@@ -4,5 +4,4 @@ public class B {
     private int aa;
     private int ccc;
     private int ddd;
-    private int rrr;
 }
