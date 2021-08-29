@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="80972761-9e0f-4b69-9eb1-bcbc15ea9e24" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gfdfd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gfdfd.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +28,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" root0="SKIP_INSPECTION" />
@@ -151,10 +153,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="185" y="0" width="1116" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1630248193381" />
-    <state x="19" y="55" key="DiffContextDialog" timestamp="1630247372290">
+    <state x="19" y="55" key="DiffContextDialog" timestamp="1630249192833">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="19" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1630247372290" />
+    <state x="19" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1630249192833" />
     <state width="1323" height="8" key="GridCell.Tab.0.bottom" timestamp="1625757971046">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -171,22 +173,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="8" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625757971046" />
-    <state x="129" y="55" key="MergeDialog" timestamp="1630246715250">
+    <state x="129" y="55" key="MergeDialog" timestamp="1630249308069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1630246715250" />
-    <state x="392" y="80" key="MultipleFileMergeDialog" timestamp="1630246716642">
+    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1630249308069" />
+    <state x="392" y="80" key="MultipleFileMergeDialog" timestamp="1630249308080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="392" y="80" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1630246716642" />
+    <state x="392" y="80" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1630249308080" />
     <state x="525" y="77" key="RollbackChangesDialog" timestamp="1630246762134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="525" y="77" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1630246762134" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1630247373776">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1630249365276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1630247373776" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1630249365276" />
+    <state x="477" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1630249334883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="477" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1630249334883" />
+    <state x="445" y="79" key="git4idea.branch.GitSmartOperationDialog" timestamp="1630249385414">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="79" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1630249385414" />
     <state x="472" y="166" key="git4idea.merge.GitPullDialog" timestamp="1630247402568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
