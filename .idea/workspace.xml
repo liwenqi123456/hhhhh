@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80972761-9e0f-4b69-9eb1-bcbc15ea9e24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/E.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630246650505</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="测试1">
+      <created>1630247358096</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630247358096</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,14 +147,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1629992979109" />
-    <state x="185" y="0" width="1116" height="728" key="CommitChangelistDialog2" timestamp="1630247276619">
+    <state x="185" y="0" width="1116" height="728" key="CommitChangelistDialog2" timestamp="1630248193381">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="185" y="0" width="1116" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1630247276619" />
-    <state x="19" y="55" key="DiffContextDialog" timestamp="1626365481214">
+    <state x="185" y="0" width="1116" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1630248193381" />
+    <state x="19" y="55" key="DiffContextDialog" timestamp="1630247372290">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="19" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1626365481214" />
+    <state x="19" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1630247372290" />
     <state width="1323" height="8" key="GridCell.Tab.0.bottom" timestamp="1625757971046">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -178,13 +183,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="525" y="77" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1630246762134" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1630247283825">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1630247373776">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1630247283825" />
-    <state x="472" y="166" key="git4idea.merge.GitPullDialog" timestamp="1630246599524">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1630247373776" />
+    <state x="472" y="166" key="git4idea.merge.GitPullDialog" timestamp="1630247402568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="472" y="166" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1630246599524" />
+    <state x="472" y="166" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1630247402568" />
   </component>
 </project>
