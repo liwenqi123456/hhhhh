@@ -7,6 +7,7 @@ public class A {
         System.out.println("RRRRRRR");
         System.out.println("RRRRRRR");
         System.out.println("RRRRRRR");
-
+        System.out.println("RRRRRRR");
+        System.out.println("RRRRRRR");
     }
 }
