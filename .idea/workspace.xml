@@ -87,9 +87,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="hhhhh" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -240,14 +237,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1631638206440" />
-    <state x="185" y="0" width="1116" height="728" key="CommitChangelistDialog2" timestamp="1632237559136">
+    <state x="185" y="0" width="1116" height="728" key="CommitChangelistDialog2" timestamp="1632238001781">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="185" y="0" width="1116" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1632237559136" />
-    <state x="19" y="55" key="DiffContextDialog" timestamp="1630249192833">
+    <state x="185" y="0" width="1116" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1632238001781" />
+    <state x="19" y="55" key="DiffContextDialog" timestamp="1632237990003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="19" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1630249192833" />
+    <state x="19" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1632237990003" />
     <state width="1323" height="16" key="GridCell.Tab.0.bottom" timestamp="1631641701924">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -308,10 +305,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="525" y="77" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1630246762134" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1630249365276">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1632237966975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1630249365276" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1632237966975" />
     <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1631551233513">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
