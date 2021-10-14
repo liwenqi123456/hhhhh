@@ -7,4 +7,7 @@ public class A {
         System.out.println("rrrr");
 
     }
+    public void ggg(){
+        System.out.println("rrrr");
+    }
 }
