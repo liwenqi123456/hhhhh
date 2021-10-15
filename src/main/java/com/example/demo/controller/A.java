@@ -8,6 +8,6 @@ public class A {
 
     }
     public void ggg(){
-        System.out.println("rrrrgggggggggghghg");
+        System.out.println("rrrhghg");
     }
 }
