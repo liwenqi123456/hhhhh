@@ -7,6 +7,6 @@ public class B {
     private int rrr;
     private int sss;
     public void bbb(){
-        System.out.println("3333");
+        System.out.println("4444");
     }
 }
