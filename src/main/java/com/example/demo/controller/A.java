@@ -11,7 +11,7 @@ public class A {
         System.out.println("rrrhghg");
     }
     public void bbb(){
-        System.out.println("rrtrtuuuuuuuuuurtrt");
+        System.out.println("rrtrtuutrt");
     }
 
 }
