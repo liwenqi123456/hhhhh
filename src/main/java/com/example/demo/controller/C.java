@@ -23,4 +23,7 @@ public class C {
     public int ccc(){
         return a+b;
     }
+    public void bbb(){
+        System.out.println("555555555");
+    }
 }
