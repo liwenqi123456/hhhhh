@@ -10,4 +10,7 @@ public class A {
     public void ggg(){
         System.out.println("rrrhghg");
     }
+    public void bbb(){
+        System.out.println("rrrtrtrt");
+    }
 }
