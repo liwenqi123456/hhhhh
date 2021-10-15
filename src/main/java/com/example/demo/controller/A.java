@@ -11,6 +11,7 @@ public class A {
         System.out.println("rrrhghg");
     }
     public void bbb(){
-        System.out.println("55885");
+        System.out.println("rrtrtuuuuuuuuuurtrt");
     }
+
 }
